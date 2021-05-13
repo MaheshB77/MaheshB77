@@ -8,8 +8,7 @@
 
 I'ma passionate full stack developer from India.
 
--   🌱 I’m currently exploring Angular.
--   💬 Working on Spring boot, Angular, MongoDB and PostgreSQL
+-   💬 Currently working on Spring boot, Angular, MongoDB and PostgreSQL
 
 **Languages and Tools:**
 
