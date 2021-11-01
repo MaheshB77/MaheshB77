@@ -25,7 +25,6 @@ I'm a passionate full stack developer from India.
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github._
 
 <a href="https://github.com/MaheshB77/MaheshB77">
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshB77&theme=dracula" />
 </a>
 <a href="https://github.com/MaheshB77/MaheshB77">
