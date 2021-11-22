@@ -9,8 +9,6 @@
 <br />
 <br />
 
-I'm a passionate full stack developer from India.
-
 -   💬 Currently working on Spring boot, Angular, MongoDB and PostgreSQL
 
 **Languages and Tools:**
