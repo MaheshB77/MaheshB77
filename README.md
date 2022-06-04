@@ -25,7 +25,9 @@
 <a href="https://github.com/MaheshB77/MaheshB77">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshB77&theme=dracula" />
 </a> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshB77&langs_count=8)](https://github.com/MaheshB77/github-readme-stats)
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshB77&langs_count=8)](https://github.com/MaheshB77/github-readme-stats)
+</div>
 <a href="https://github.com/MaheshB77/MaheshB77">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaheshB77&show_icons=true&theme=dracula&line_height=27" alt="MaheshB77" />
 </a>
