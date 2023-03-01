@@ -30,4 +30,4 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaheshB77&show_icons=true&theme=dracula&line_height=27" alt="MaheshB77" />
 </a>
 
-[![Mahesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MaheshB77)](https://github.com/MaheshB77/github-readme-activity-graph)
+[![Mahesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MaheshB77&theme=github-compact)](https://github.com/MaheshB77/github-readme-activity-graph)
