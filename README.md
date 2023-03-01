@@ -26,8 +26,9 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshB77&langs_count=8&theme=dracula" />
 </a>
 <br/>
-<a href="https://github.com/MaheshB77/MaheshB77">
+
+<!-- <a href="https://github.com/MaheshB77/MaheshB77">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaheshB77&show_icons=true&theme=dracula&line_height=27" alt="MaheshB77" />
-</a>
+</a> -->
 
 [![Mahesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MaheshB77&theme=github-compact)](https://github.com/MaheshB77/github-readme-activity-graph)
