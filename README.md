@@ -20,6 +20,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
+<!-- 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github._
 
 <a href="https://github.com/MaheshB77/MaheshB77">
@@ -27,8 +28,9 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 </a>
 <br/>
 
-<!-- <a href="https://github.com/MaheshB77/MaheshB77">
+<a href="https://github.com/MaheshB77/MaheshB77">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaheshB77&show_icons=true&theme=dracula&line_height=27" alt="MaheshB77" />
-</a> -->
+</a>
+-->
 
 [![Mahesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MaheshB77&theme=github-compact)](https://github.com/MaheshB77/github-readme-activity-graph)
