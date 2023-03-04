@@ -10,6 +10,7 @@
 <br />
 
 -   💬 Currently working on Spring boot, Angular, MongoDB and PostgreSQL
+-   Looking forward to contribute to open source projects
 
 **Languages and Tools:**
 
