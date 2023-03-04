@@ -3,9 +3,6 @@
 <a href="https://www.linkedin.com/in/mahesh-bansode-106781164/">
   <img align="left" alt="Mahesh | LinkedIn" width="81px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/MaheshB77">
-  <img align="left" alt="Mahesh | GitHub" width="75px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 <br />
 <br />
 
