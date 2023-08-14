@@ -36,5 +36,3 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 </a>
 <br/>
 <br/>
-
-[![Mahesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MaheshB77&theme=github-compact)](https://github.com/MaheshB77/github-readme-activity-graph)
