@@ -1,4 +1,4 @@
-## Hi there, I'm Mahesh 👋
+## Hey there, I'm Mahesh 👋
 
 <a href="https://www.linkedin.com/in/mahesh-bansode-106781164/">
   <img align="left" alt="Mahesh | LinkedIn" width="81px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
