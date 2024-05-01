@@ -7,7 +7,8 @@
 <br />
 
 -   💬 Currently working on Spring boot, Angular, and Oracle DB
--   Looking forward to contributing to open-source projects
+-   Love to build android applications in my free time ![MuaKissGIF (2)](https://github.com/MaheshB77/MaheshB77/assets/47536121/24e63550-7c2a-423e-bf25-4a8a7a44ffef)
+
 
 - Languages
   - <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
