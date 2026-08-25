@@ -1,1 +1,1 @@
-[![Mahesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaheshB77&theme=react-dark&hide_border=true&radius=12)](https://github.com/MaheshB77)
+[![Mahesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaheshB77&theme=dracula)](https://github.com/MaheshB77/github-readme-activity-graph)
